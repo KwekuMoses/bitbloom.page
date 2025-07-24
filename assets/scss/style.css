@@ -997,11 +997,11 @@ h6 {
 }
 
 .section-title {
-  font-size: 60px;
+  font-size: 100px;
 }
 @media only screen and (max-width: 1919px) {
   .section-title {
-    font-size: 60px;
+    font-size: 80px;
   }
 }
 @media only screen and (max-width: 1399px) {
@@ -6390,7 +6390,7 @@ video.video-area {
 .hero-area-2 .section-title {
   font-size: 200px;
   font-weight: 310;
-  line-height: 1;
+  line-height: 2;
   letter-spacing: -0.09em;
   text-transform: uppercase;
   margin-left: 60px;
@@ -18537,4 +18537,4 @@ video.video-area {
 }
 .footer-area-inner-page .copyright-text .text a:hover::before {
   width: 100%;
-}/*# sourceMappingURL=style.css.map */
+}
